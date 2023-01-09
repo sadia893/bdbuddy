@@ -15,7 +15,7 @@ other easily . Necessary addresses like nearly police station ,fire service
 ,hospitals etc will be available also.
 
 **Software Specifications
-Android Version: 5.0 (Lollipop )
+Android Version: 5.0 (Lollipop ),
 Database: Firebase**
 
 
