@@ -1,6 +1,6 @@
 # bdbuddy
-Android project
-By using this app user can find travelling partner or tour guide and nec-
+Android project:-
+By using this app user can find travelling partner or tour guide and nec
 essary information about renowned places in Bangladesh. This app will
 preview some interesting and attractive places in Bangladesh and also some
 necessary information such as about the place , location of these places
